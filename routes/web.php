@@ -34,7 +34,7 @@ Route::middleware(['auth'])->prefix('admin')->name('admin.')->group(function () 
     Route::post('/logout', [AuthController::class, 'logout'])->name('logout');
 
     // Projetos
-    Route::get('/projetos', [ProjectController::class, 'index'])->name('projetos.index');
+    Route::get('/', [ProjectController::class, 'index'])->name('projetos.index');
     Route::get('/projetos/criar', [ProjectController::class, 'create'])->name('projetos.create');
     Route::post('/projetos', [ProjectController::class, 'store'])->name('projetos.store');
     Route::get('/projetos/{id}/editar', [ProjectController::class, 'edit'])->name('projetos.edit');
