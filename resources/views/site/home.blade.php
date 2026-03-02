@@ -54,10 +54,13 @@
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 items-start">
                 <div class="p-6 sm:p-10 bg-gray-900 rounded-xl border border-gray-800 shadow-lg flex flex-col gap-5 text-gray-300 leading-relaxed text-justify h-full">
                     <p>
-                        Sou Ildealef H. Vicente da Silva, brasiliense de 28 anos, apaixonadíssimo por tecnologia desde garoto. Como estudante de Engenharia de Software, tenho o objetivo de me tornar o melhor e mais competente profissional do mercado. A ideia de solucionar problemas, automatizar tarefas, elevar o nível de negócios, tudo isso utilizando da tecnologia, é definitivamente algo que me empolga muito.
+                        Sou Ildealef H. Vicente da Silva, desenvolvedor web full stack com experiência na construção de aplicações modernas e orientadas a resultados. Atuo no desenvolvimento de soluções utilizando tecnologias como React e Node.js, estruturando APIs REST e trabalhando com bancos de dados relacionais.
                     </p>
                     <p>
-                        O meu contato com a programação antecede a minha matrícula no curso de Engenharia de Software. Tudo começou com OutSystems, uma linguagem de programação lowcode que permite desenvolver aplicações web e mobile de forma muito rápida... Não levou muito tempo para acabar me interessando pelo desenvolvimento Web Tradicional, o que naturalmente me levou ao desenvolvimento frontend com React.js. E não satisfeito, acabei expandindo meus conhecimentos para o desenvolvimento back-end, me tornando assim, um desenvolvedor fullstack.
+                        Tenho foco em desenvolver sistemas organizados, escaláveis e alinhados às necessidades do negócio, aplicando boas práticas de arquitetura, tipagem estática e padrões de organização de código. Busco compreender o contexto do projeto antes da implementação, garantindo que a solução entregue gere eficiência operacional e valor real.
+                    </p>
+                    <p>
+                        Trabalho com versionamento e controle de qualidade do código, mantendo uma abordagem técnica consistente e orientada a mercado. Estou em constante evolução profissional, aprofundando conhecimentos em arquitetura de software, desempenho e infraestrutura.
                     </p>
                 </div>
 
@@ -155,12 +158,15 @@
 
     <section class="py-10">
         <div class="reveal">
-            <h2 class="text-3xl font-bold mb-6">Quer ver mais código?</h2>
+            <h2 class="text-3xl font-bold mb-6">Visite meu GitHub</h2>
             <div class="p-8 md:p-12 bg-gray-900 rounded-xl border border-gray-800 shadow-xl flex flex-col md:flex-row items-center justify-between gap-8">
                 <div class="flex-1">
-                    <h3 class="text-2xl font-bold text-white mb-3">É aqui que a mágica acontece</h3>
+                    <h3 class="text-2xl font-bold text-white mb-3">Onde os projetos ganham forma</h3>
                     <p class="text-gray-300 text-justify">
-                        No meu GitHub você encontra inúmeros projetos que vão do frontend ao backend. Desde projetos mais simples e diretos, feitos com HTML, CSS e JavaScript, a projetos mais elaborados construídos com React, Tailwind, sistemas de roteamento, e backends feitos com Laravel, Node.js, bancos de dados SQL, autenticação e muito mais.
+                        No meu GitHub estão reunidos projetos que refletem minha evolução técnica e minha abordagem prática ao desenvolvimento. Você encontrará desde aplicações front-end construídas com HTML, CSS e JavaScript, até sistemas mais estruturados com React, integração com APIs REST e back-ends desenvolvidos com Node.js e Laravel, utilizando bancos de dados relacionais e mecanismos de autenticação.
+                    </p>
+                    <p class="text-gray-300 text-justify">
+                        Cada projeto demonstra organização de código, versionamento adequado e foco em soluções aplicáveis a cenários reais.
                     </p>
                 </div>
                 <div>
